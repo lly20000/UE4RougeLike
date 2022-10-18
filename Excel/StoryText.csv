@@ -1,8 +1,0 @@
----,Speaker,Background,Text,Scene,Audio,Music,Section,SpeakerLeftRight,SpeakerImage,NextItem
-1,姗姗,None,你好呀，少年,1,,,1,1,/Game/Blueprints/Story/Image/Helper1,1
-2,姗姗,None,我在这里这么久还第一次见到人呢？好激动 能给我签名留念么？,1,,,1,1,/Game/Blueprints/Story/Image/Helper1,2
-3,姗姗,None,不过你长得有点丑，我还是比较喜欢帅的,1,,,1,1,/Game/Blueprints/Story/Image/Helper1,3
-4,姗姗,None,你觉得我怎么样？漂亮么？,1,,,1,1,/Game/Blueprints/Story/Image/Helper1,4
-5,姗姗,None,这里是我的家，你怎么进来的？,1,,,1,1,/Game/Blueprints/Story/Image/Helper1,5
-6,姗姗,None,最近这里有点问题 你能帮帮我么？,1,,,1,1,/Game/Blueprints/Story/Image/Helper1,6
-7,姗姗,None,来 我带你去,1,,,1,2,/Game/Blueprints/Story/Image/Helper1,7

@@ -4,11 +4,11 @@
 3,1,300,0,60,60,1,0,0,0,5,80,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1003.BP_Skill_Earth_1003_C,0,3,None,3,15
 4,1,400,0,70,70,1,0,0,0,5,90,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1004.BP_Skill_Earth_1004_C,0,4,None,4,20
 5,1,500,0,80,80,1,0,0,0,5,100,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1005.BP_Skill_Earth_1005_C,0,5,None,5,25
-6,1,500,0,80,80,1,0,0,0,5,100,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1005.BP_Skill_Earth_1005_C,0,5,None,5,25
-7,1,500,0,80,80,1,0,0,0,5,100,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1005.BP_Skill_Earth_1005_C,0,5,None,5,25
-8,1,500,0,80,80,1,0,0,0,5,100,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1005.BP_Skill_Earth_1005_C,0,5,None,5,25
-9,1,500,0,80,80,1,0,0,0,5,100,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1005.BP_Skill_Earth_1005_C,0,5,None,5,25
-10,1,500,0,80,80,1,0,0,0,5,100,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1005.BP_Skill_Earth_1005_C,0,5,None,5,25
+6,1,500,0,80,80,1,0,0,0,5,100,0,0,/Game/Blueprints/Skill/SkillFire/BP_Skill_Fire_1006.BP_Skill_Fire_1006_C,0,5,None,5,25
+7,1,500,0,80,80,1,0,0,0,5,100,0,0,/Game/Blueprints/Skill/SkillFire/BP_Skill_Fire_1007.BP_Skill_Fire_1007_C,0,5,None,5,25
+8,1,500,0,80,80,1,0,0,0,5,100,0,0,/Game/Blueprints/Skill/SkillFire/BP_Skill_Fire_1008.BP_Skill_Fire_1008_C,0,5,None,5,25
+9,1,500,0,80,80,1,0,0,0,5,100,0,0,/Game/Blueprints/Skill/SkillFire/BP_Skill_Fire_1009.BP_Skill_Fire_1009_C,0,5,None,5,25
+10,1,500,0,80,80,1,0,0,0,5,100,0,0,/Game/Blueprints/Skill/SkillFire/BP_Skill_Fire_1010.BP_Skill_Fire_1010_C,0,5,None,5,25
 11,1,500,0,80,80,1,0,0,0,5,100,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1005.BP_Skill_Earth_1005_C,0,5,None,5,25
 12,1,500,0,80,80,1,0,0,0,5,100,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1005.BP_Skill_Earth_1005_C,0,5,None,5,25
 13,1,500,0,80,80,1,0,0,0,5,100,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1005.BP_Skill_Earth_1005_C,0,5,None,5,25

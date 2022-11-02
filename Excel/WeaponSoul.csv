@@ -1,0 +1,9 @@
+---,Type,Health,Magic,PhysicalAttack,MagicAttack,AttackSpeed,MoveSpeed,PhysicalDefence,MagicDefence,Crit,CritAttack,Mana,Sence,SkillBP,HealthBase,TargetCount,WeaponSoulEffect,Level,DestroyTime
+1,1,100,0,40,40,1,0,0,0,5,60,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1001.BP_Skill_Earth_1001_C,0,1,None,1,5
+2,1,200,0,50,50,1,0,0,0,5,70,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1002.BP_Skill_Earth_1002_C,0,2,None,2,10
+3,1,300,0,60,60,1,0,0,0,5,80,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1003.BP_Skill_Earth_1003_C,0,3,None,3,15
+4,1,400,0,70,70,1,0,0,0,5,90,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1004.BP_Skill_Earth_1004_C,0,4,None,4,20
+5,1,500,0,80,80,1,0,0,0,5,100,0,0,/Game/Blueprints/Skill/SkillEarth/BP_Skill_Earth_1005.BP_Skill_Earth_1005_C,0,5,None,5,25
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
